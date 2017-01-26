@@ -11,9 +11,9 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/app.js",
+            "program": "${workspaceRoot}/5.33 5.34 Emitter (pt.1 and pt. 2)/app.js",
             "cwd": "${workspaceRoot}",
-            "env": "${workspaceRoot}/app.js"
+            "env": "${workspaceRoot}/5.33 5.34 Emitter (pt.1 and pt. 2)/app.js"
         },
         {
             "type": "node",
